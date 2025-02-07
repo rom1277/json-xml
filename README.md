@@ -1,39 +1,4 @@
-# Day 01 — Go Boot camp
-
-## Comparing Incomparable
-
-💡 [Tap here](https://new.oprosso.net/p/4cb31ec3f47a4596bc758ea1861fb624) **to leave your feedback on the project**. It's anonymous and will help our team make your educational experience better. We recommend completing the survey immediately after the project.
-
-## Contents
-
-1. [Chapter I](#chapter-i) \
-    1.1. [General rules](#general-rules)
-2. [Chapter II](#chapter-ii) \
-    2.1. [Rules of the day](#rules-of-the-day)
-3. [Chapter III](#chapter-iii) \
-    3.1. [Intro](#intro)
-4. [Chapter IV](#chapter-iv) \
-    4.1. [Exercise 00: Reading](#exercise-00-reading)
-5. [Chapter V](#chapter-v) \
-    5.1. [Exercise 01: Assessing Damage](#exercise-01-assessing-damage)
-6. [Chapter VI](#chapter-vi) \
-    6.1. [Exercise 02: Afterparty](#exercise-02-afterparty)
-
-
-<h2 id="chapter-i" >Chapter I</h2>
-<h2 id="general-rules" >General rules</h2>
-
-- Your programs should not exit unexpectedly (give an error on valid input). If this happens, your project will be considered non-functional and will receive a 0 in the evaluation.
-- We encourage you to create test programs for your project, even though this work doesn't have to be submitted and won't be judged. This will allow you to easily test your work and the work of your peers. You will find these tests particularly useful during your defence. In fact, you are free to use your own tests and/or those of the peer you are evaluating during your defence.
-- Submit your work to your allocated git repository. Only work in the git repository will be marked.
-- If your code uses external dependencies, it should use [Go Modules](https://go.dev/blog/using-go-modules) to manage them.
-
-<h2 id="chapter-ii" >Chapter II</h2>
-<h2 id="rules-of-the-day" >Rules of the day</h2>
-
-- You should only submit `*.go` files and (in the case of external dependencies) `go.mod` + `go.sum`.
-- Your code for this task should be buildable with just `go build`.
-
+# json-xml
 <h2 id="chapter-iii" >Chapter III</h2>
 <h2 id="intro" >Intro</h2>
 
