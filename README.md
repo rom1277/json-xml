@@ -1,5 +1,4 @@
 # json-xml
-<h2 id="chapter-iii" >Chapter III</h2>
 <h2 id="intro" >Intro</h2>
 
 There are many popular data formats in the world of programming, and Go in particular. But it's very likely that you'll come across one of them — XML or JSON. Many, many APIs use JSON and/or XML to encode structured data.
@@ -113,7 +112,6 @@ Life was great and simple until the owner of the bakery found out that in the ne
 He couldn't help but notice that the thief had not only stolen his recipes, but had also altered some of them. Some ingredients were missing, numbers were changed, units were renamed. So he prepared for revenge!
 
 
-<h2 id="chapter-iv" >Chapter IV</h2>
 <h3 id="ex00">Exercise 00: Reading</h3>
 
 First of all, he had to learn how to read the database. The owner already had a CLI, so he decided that reading the file should be straightforward, so both these should work (files can be distinguished by an extension, for simplicity):
@@ -127,7 +125,6 @@ So you're going to have to help him with that. Think about what kinds of objects
 
 To check that his idea works, have the code print the JSON version of the database when it's reading from XML, and vice versa. Both XML and JSON fields should be indented by 4 spaces ("pretty-printing").
 
-<h2 id="chapter-v" >Chapter V</h2>
 <h3 id="ex01">Exercise 01: Assessing Damage</h3>
 
 OK, so now the owner has decided to compare the databases. You've seen that the stolen database has modified versions of the same recipes, so there are several possible cases:
@@ -160,7 +157,6 @@ CHANGED unit count for ingredient "Strawberries" for cake  "Red Velvet Strawberr
 REMOVED unit "pieces" for ingredient "Cinnamon" for cake  "Red Velvet Strawberry Cake"
 ```
 
-<h2 id="chapter-vi" >Chapter VI</h2>
 <h3 id="ex02">Exercise 02: Afterparty</h3>
 
 As the owner of the Villariba bakery searched through the database, he suddenly realised — this guy is brilliant! Some of the recipes had been greatly improved from the old version, and these new ideas were truly creative! He rushed to Villabajo and found the man who, as he first thought, had stolen his most precious inheritance.
